@@ -72,5 +72,3 @@ A toolkit to automate parts of the ML workflow and surface explanations that non
 - **Email:** jmohammadali5427@gmail.com
 
 ***
-
-You can remove the “This is an incredibly strong…” paragraph and the “Your Action Item” at the top and bottom; those were instructions to you, not content for GitHub.
