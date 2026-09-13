@@ -82,7 +82,7 @@ I'm especially interested in connecting with **founders, indie hackers, develope
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [J Mohammad Ali](https://www.linkedin.com/in/j-mohammad-ali-wp/)
+- **LinkedIn:** [J Mohammad Ali](https://www.linkedin.com/in/j-mohammad-ali-ai/)
 - **GitHub:** [@Ali-5427](https://github.com/Ali-5427)
 - **Email:** jmohammadali5427@gmail.com
 
