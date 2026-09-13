@@ -1,74 +1,91 @@
+# Hey, I'm J Mohammad Ali 👋
 
-## 👋 Hi, I’m J Mohammad Ali
+I'm a builder from India interested in **AI, apps, and products that solve real problems**.
 
-I’m a 2nd‑year B.Tech **Computer Science (AI & Data Science)** student at Siddharth Institute of Engineering & Technology (Class of 2028) with a **9.25/10 CGPA**. I focus on **resource‑efficient Computer Vision** and **Explainable / Responsible AI for Social Good**.
+I like taking an idea from **problem → MVP → real users → feedback → better product**.
 
-I like using code and ML to solve real problems in **healthcare, education, and operations**, not just to make demo projects.
+Currently building and experimenting with AI-powered products while learning product development, distribution, and entrepreneurship.
 
-***
+---
 
-## 🎯 Current Focus
+## 🚀 What I'm Building
 
-- **Domain:** Computer Vision + Explainable AI (XAI) + Responsible AI  
-- **Theme:** Making models that are **accurate, efficient, and trustworthy** for real users (doctors, students, retail staff).  
-- **Goal:** Student Researcher / Research Intern roles working on **AI for Social Good** and **Responsible AI**.
+### 🔧 Fixit
+**App Store preflight for developers**
 
-***
+A tool that helps developers catch potential App Store review problems before submitting their apps.
 
-## 🧠 Highlight Projects
+**Goal:** Catch the problems before Apple does.
 
-### 🩺 Medi Lens – Counterfeit Detection CV System
-A vision system designed to detect counterfeit medicine packaging in low‑resource settings.  
-- Uses lightweight CNN / YOLO‑style architectures optimized for **on‑device inference** on low‑end phones.  
-- Focuses on safety metrics like **precision/recall** and latency so models are usable in real pharmacies, not just benchmarks.  
-- Currently exploring **quantization** and model compression to run reliably under hardware constraints.
+🔗 [Try Fixit](https://fuck-it-new-umber.vercel.app/)
 
-### 🧭 Agentic RAG College Chatbot – Reliable Information Retrieval
-An agentic Retrieval‑Augmented Generation chatbot for my college that aims to reduce “information loss” in answers.  
-- Uses a **multi‑step retrieval + critic loop** instead of single‑pass RAG for more complete responses.  
-- Designed around the idea of **information recall**: how many key facts the system recovers vs. a baseline RAG pipeline.
+---
 
-### 🧪 Data Pro AI – AutoML + XAI for Non‑Experts
-A toolkit to automate parts of the ML workflow and surface explanations that non‑technical users can understand.  
-- Combines **AutoML** with basic **XAI** (e.g., feature importance) to build trust in model decisions.  
-- Aimed at users like retail managers or operations teams who need decisions they can question and interpret.
+### 🧠 Forgot AI
+**A personal memory for everything you save**
 
-***
+Save screenshots, notes, ideas, messages, research, and random information without worrying about organizing everything.
 
-## 🎓 Academics & Honors
+Later, describe what you remember — even if you don't remember the exact words — and Forgot AI helps you find it.
 
-- **B.Tech CSE (AI & DS)** – Siddharth Institute of Engineering & Technology (2024–2028)  
-  - CGPA: **9.25 / 10.0**  
-- **Aspire Leaders Program Fellow (2026 cohort)** – Harvard‑founded global leadership program for high‑potential students.
+🔗 [Try Forgot AI](https://forgot-ai.vercel.app/)
 
-***
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Things I Work With
 
-- **Languages:** Python, C++, SQL, basic JavaScript  
-- **ML / DL:** PyTorch, TensorFlow, NumPy, Pandas, scikit‑learn  
-- **CV / XAI interests:** CNNs, lightweight architectures, post‑training quantization, saliency / feature‑importance methods  
-- **Tools / Backend:** FastAPI, Flask, Git, GitHub, Linux
+**Languages**
+- Python
+- Java
+- C/C++
+- JavaScript / TypeScript
+- SQL
 
-***
+**AI / ML**
+- LLMs
+- RAG
+- Computer Vision
+- Machine Learning
+- AI Agents
 
-## 🌍 Beyond Code
+**Development**
+- React
+- Vite
+- FastAPI
+- Flask
+- Streamlit
+- Git / GitHub
 
-- Experience in **retail operations (Uniqlo)** and **grassroots social impact** (training and welfare logistics), which gives me a practical sense of user behavior, constraints, and deployment environments.  
-- Comfortable working in **multilingual contexts**, which is important for scalable AI and RAG systems in India.
+**Currently learning**
+- Product development
+- User research
+- Distribution
+- Growth
+- Building products people actually want
 
-***
+---
 
-## 🚀 What I’m Looking For
+## 🌱 What I'm Interested In
 
-- Student Researcher / Research Intern roles in **Computer Vision**, **Responsible / Explainable AI**, and **AI for Social Good**.  
-- Collaborations on projects that need both **engineering execution** and **research thinking** (clear metrics, ablations, limitations).
+- AI products
+- Consumer & developer apps
+- AI agents
+- Product development
+- Distribution & growth
+- Entrepreneurship
+- Building in public
+- Meeting other builders
 
-***
+I'm especially interested in connecting with **founders, indie hackers, developers, designers, and people building their own products.**
 
-## 📬 Let’s Connect
+---
 
-- **LinkedIn:** https://linkedin.com/in/j-mohammad-ali-wp
+## 🤝 Let's Connect
+
+- **LinkedIn:** [J Mohammad Ali](https://www.linkedin.com/in/j-mohammad-ali-wp/)
+- **GitHub:** [@Ali-5427](https://github.com/Ali-5427)
 - **Email:** jmohammadali5427@gmail.com
 
-***
+---
+
+> **Build → Ship → Talk to Users → Learn → Improve → Repeat.**
